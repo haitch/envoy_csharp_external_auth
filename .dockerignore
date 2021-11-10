@@ -1,0 +1,8 @@
+bin
+obj
+published
+Dockerfile
+.gitignore
+.dockerignore
+.vscode
+.DS_Store

@@ -1,0 +1,8 @@
+bin
+obj
+Protos/**/BUILD
+Protos/**/BUILD.bazel
+Protos/**/README.md
+published
+.vscode
+.DS_Store
